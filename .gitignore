@@ -5,3 +5,4 @@ data/
 *.dmp
 .venv/
 crashes.sqlite
+tools/crashpad/
