@@ -3,3 +3,5 @@ crashdb/
 data/
 *.dSYM/
 *.dmp
+.venv/
+crashes.sqlite
