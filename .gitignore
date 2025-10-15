@@ -1,0 +1,5 @@
+bin/
+crashdb/
+data/
+*.dSYM/
+*.dmp
